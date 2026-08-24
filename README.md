@@ -32,8 +32,8 @@ Sviluppatore Full Stack specializzato nell'**integrazione di sistemi di Intellig
 ### 📊 Statistiche GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntonioBrescia&show_icons=true&theme=radial" alt="Statistiche GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioBrescia&layout=compact&theme=radial" alt="Linguaggi più usati" height="150" />
+  <img src="https://img.shields.io/github/followers/AntonioBrescia?label=Followers&style=for-the-badge&color=007acc" />
+  <img src="https://img.shields.io/github/stars/AntonioBrescia?label=Stars&style=for-the-badge&color=007acc" />
 </p>
 
 ---
