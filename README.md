@@ -50,7 +50,7 @@ Il mio obiettivo principale è analizzare i processi e le criticità aziendali p
   - **Infrastruttura & IT:** Gestione completa dell'infrastruttura di rete, supporto tecnico e configurazione dell'hardware e software aziendale.
   - **Applicativi e CRM:** Progettazione e manutenzione di applicativi web interni in PHP/MySQL per la digitalizzazione delle procedure operative.
   - **Soluzioni AI:** Sviluppo di un agente AI personalizzato con Claude API per la consultazione rapida del patrimonio informativo dell'organizzazione.
-  - **Automazione Processi:** Creazione di script/app Python per l'interrogazione automatica dei server NAS e sviluppo di un plugin custom per WordPress finalizzato alla gestione automatica degli ordini ai fornitori.
+  - **Automazione Processi:** Creazione di script/app Python per l'interrogazione automatica dei server NAS e sviluppo di plugin custom WordPress finalizzati alla gestione automatica di ordini, prenotazioni ecc.
 
 * **Freelance Web Developer** *(Agosto 2025 - Gennaio 2026)*
   - Gestione end-to-end del ciclo di vita di progetti web per piccole e medie imprese: analisi dei requisiti, sviluppo del codice, configurazione dell'ambiente di hosting, ottimizzazione SEO base e deploy in produzione.
