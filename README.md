@@ -3,7 +3,6 @@
   <a href="./README.md">🇮🇹 Italiano</a> | 
   <a href="./README-en.md">🇬🇧 English</a>
 </p>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-brescia) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniobrescia1997@gmail.com)
 
 # 👋 &nbsp;Ciao, sono Antonio Brescia
 
