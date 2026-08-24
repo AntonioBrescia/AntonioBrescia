@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=500&height=50&lines=Ciao%2C+sono+Antonio+Brescia!+👋;Full+Stack+Developer;AI+Automation+Specialist;Prompt+%26+RAG+Architect" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d680-a470-11eb-9a22-73d482221560.gif" width="100%" alt="Wave Divider" />
+</p>
+
 # Ciao, sono Antonio Brescia 👋
 
 ### 👨‍💻 Full Stack & AI Automation Developer
@@ -8,7 +18,9 @@ Full Stack & AI Automation Developer specializzato nella progettazione di archit
 - **Core Focus:** AI Agents, LLM Integration (Claude API), RAG Systems, Backend Architecture
 - **Stato attuale:** Building AI solutions & preparing for Azure AZ-900 ☁️
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d680-a470-11eb-9a22-73d482221560.gif" width="100%" alt="Wave Divider" />
+</p>
 
 ### 🚀 A cosa sto lavorando
 
@@ -76,3 +88,7 @@ Full Stack & AI Automation Developer specializzato nella progettazione di archit
 
 📍 **Location:** Cisternino (BR), Italia  
 🌐 **Lingue:** Italiano (Madrelingua), Inglese (B2)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d680-a470-11eb-9a22-73d482221560.gif" width="100%" alt="Wave Divider" />
+</p>
