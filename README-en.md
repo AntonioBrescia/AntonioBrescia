@@ -8,7 +8,7 @@
 
 # 👋 &nbsp;Hi, I'm Antonio Brescia
 
-I'm a **Full Stack & AI Automation Developer** based in Cisternino (BR), Italy. My expertise focuses on designing scalable backend architectures, developing business management systems (CRM/ERP), and integrating **Generative AI** technologies (LLMs, RAG, AI Agents) to optimize and automate business workflows.
+I'm a **Full Stack & AI Automation Developer** based in Lecce (LE), Italy. My expertise focuses on designing scalable backend architectures, developing business management systems (CRM/ERP), and integrating **Generative AI** technologies (LLMs, RAG, AI Agents) to optimize and automate business workflows.
 
 My main goal is analyzing business processes and technical bottlenecks to translate them into efficient software architectures, minimizing repetitive manual tasks and optimizing API/compute costs.
 
