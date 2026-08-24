@@ -1,92 +1,81 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d680-a470-11eb-9a22-73d482221560.gif" width="100%" alt="Header Animato" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-brescia) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniobrescia1997@gmail.com)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d680-a470-11eb-9a22-73d482221560.gif" width="100%" alt="Wave Divider" />
-</p>
+# 👋 &nbsp;Ciao, sono Antonio Brescia
 
-# Ciao, sono Antonio Brescia 👋
+Sono un **Full Stack & AI Automation Developer** con sede a Cisternino (BR), Italia. La mia attività è incentrata sulla progettazione di architetture backend scalabili, nello sviluppo di sistemi gestionali aziendali (CRM/ERP) e nell'integrazione di tecnologie di **Intelligenza Artificiale Generativa** (LLM, RAG, AI Agents) per l'ottimizzazione e l'automazione dei flussi operativi.
 
-### 👨‍💻 Full Stack & AI Automation Developer
-Full Stack & AI Automation Developer specializzato nella progettazione di architetture backend, nello sviluppo di soluzioni gestionali e nell'**integrazione di sistemi di Intelligenza Artificiale** per l'automazione dei processi aziendali e l'ottimizzazione dei flussi operativi.
+Il mio obiettivo principale è analizzare i processi e le criticità aziendali per tradurli in architetture software efficienti, riducendo le attività manuali ripetitive e ottimizzando i costi computazionali.
 
-- **Ruolo:** Full Stack & AI Automation Developer
-- **Location:** Cisternino (BR), Italia
-- **Core Focus:** AI Agents, LLM Integration (Claude API), RAG Systems, Backend Architecture
-- **Stato attuale:** Building AI solutions & preparing for Azure AZ-900 ☁️
+ Attualmente ricopro il ruolo di **IT Specialist & AI Automation Developer** presso *GeNSS Coop.Sociale*.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d680-a470-11eb-9a22-73d482221560.gif" width="100%" alt="Wave Divider" />
-</p>
+&nbsp;
 
-### 🚀 A cosa sto lavorando
+## 👇 &nbsp;A cosa sto lavorando
 
-- 🤖 **AI Agents & LLM Integration:** Sviluppo di agenti AI per assistenza interna e ricerca di informazioni aziendali tramite integrazione **Claude API** e ottimizzazione dei costi d'uso con **Prompt Caching**.
-- 🧠 **Architetture RAG (Retrieval Augmented Generation):** Progettazione di pipeline AI avanzate per l'elaborazione di documenti, chunking, embeddings, semantic search e recupero intelligente delle informazioni tramite **Vector Databases**.
-- ⚙️ **Process Automation:** Sviluppo di applicazioni desktop in **Python** per l'automazione di attività aziendali (gestione file, ricerca su NAS, integrazioni esterne) e progettazione di plugin **WordPress** su misura per la gestione automatizzata di ordini da fornitori.
-- 🔌 **CRM & Backend Development:** Progettazione e manutenzione di CRM e soluzioni web gestionali personalizzate in **PHP**, **MySQL** e **Spring**, con integrazione di API REST di terze parti.
-- ☁️ **Cloud Learning:** Studio avanzato per il conseguimento della certificazione **Microsoft Azure Fundamentals (AZ-900)**.
+* 🤖 **AI Agents & Integrazioni LLM Avanzate:** 
+  Progetto e sviluppo agenti AI interni per la ricerca documentale e l'assistenza operativa. Mi occupo dell'integrazione delle **Claude API** implementando strategie di **Prompt Caching** per abbattere la latenza e ridurre i costi di consumo delle API.
 
----
+* 🧠 **Architetture RAG (Retrieval-Augmented Generation):**
+  Disegno pipeline RAG end-to-end per l'estrazione intelligente di dati da documenti complessi. Gestisco le fasi di document processing, chunking, generazione di embeddings, ricerca semantica e integrazione con **Vector Databases**.
 
-### 🛠️ Tech Stack & Competenze
+* ⚙️ **Process Automation & Software Custom:**
+  Realizzo applicazioni desktop in **Python** per la gestione automatizzata dei file e l'interfacciamento con i NAS aziendali, oltre a plugin **WordPress** su misura per automatizzare l'intero ciclo di vita degli ordini fornitori.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openapi-initiative&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+* 🔌 **Sviluppo Backend & CRM:**
+  Sviluppo e mantengo CRM aziendali personalizzati utilizzando **PHP**, **MySQL** e **Spring** (Java), curando la progettazione e l'integrazione di API REST per la comunicazione tra sistemi terzi.
 
-![Claude API](https://img.shields.io/badge/Claude_API-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![RAG Architecture](https://img.shields.io/badge/RAG_Architecture-4B5563?style=for-the-badge&logo=brainly&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
-![Azure AZ-900](https://img.shields.io/badge/Azure_AZ--900-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+* ☁️ **Cloud Computing (Azure):**
+  Sto approfondendo l'architettura cloud di Microsoft in vista della certificazione **Microsoft Azure Fundamentals (AZ-900)**, con focus su sicurezza, governance e gestione delle infrastrutture.
 
----
+&nbsp;
 
-### 💼 Esperienze Lavorative
+## 🧰 &nbsp;My toolbox
 
-- **IT Specialist / Software & AI Automation Developer** @ *GeNSS Coop.Sociale* (Febbraio 2026 - Presente)
-  - Gestione infrastruttura IT, configurazione postazioni e supporto tecnico.
-  - Sviluppo di app web interne in PHP/MySQL, soluzioni CRM e automazioni in Python.
-  - Sviluppo di agenti AI interni con integrazione Claude API e tecniche di Prompt Caching.
-  - Creazione di plugin WordPress personalizzati per la gestione automatizzata degli ordini fornitori.
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="45" height="45"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="45" height="45"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="45" height="45"/>
 
-- **Freelance Developer** (Agosto 2025 - Gennaio 2026)
-  - Sviluppo end-to-end di progetti web, gestione contenuti, configurazione ambienti e deploy tramite WordPress.
+&nbsp;
 
-- **Junior Developer** @ *THCS srl* (Febbraio 2025 - Luglio 2025)
-  - Sviluppo e manutenzione di CRM in PHP per ambulatori, agenzie per il lavoro e cooperative PA.
-  - Integrazione API REST di terze parti e supporto all'architettura backend in Spring.
+## 💼 &nbsp;Esperienze Lavorative
 
----
+* **IT Specialist / Software & AI Automation Developer** @ *GeNSS Coop.Sociale* *(Febbraio 2026 - Presente)*
+  - **Infrastruttura & IT:** Gestione completa dell'infrastruttura di rete, supporto tecnico e configurazione dell'hardware e software aziendale.
+  - **Applicativi e CRM:** Progettazione e manutenzione di applicativi web interni in PHP/MySQL per la digitalizzazione delle procedure operative.
+  - **Soluzioni AI:** Sviluppo di un agente AI personalizzato con Claude API per la consultazione rapida del patrimonio informativo dell'organizzazione.
+  - **Automazione Processi:** Creazione di script/app Python per l'interrogazione automatica dei server NAS e sviluppo di un plugin custom per WordPress finalizzato alla gestione automatica degli ordini ai fornitori.
 
-### 🎓 Istruzione & Certificazioni
+* **Freelance Web Developer** *(Agosto 2025 - Gennaio 2026)*
+  - Gestione end-to-end del ciclo di vita di progetti web per piccole e medie imprese: analisi dei requisiti, sviluppo del codice, configurazione dell'ambiente di hosting, ottimizzazione SEO base e deploy in produzione.
 
-- ☁️ **Certificazione Microsoft Azure Fundamentals (AZ-900)** — Studio dei servizi cloud, sicurezza e governance (In corso)
-- 🧠 **Retrieval Augmented Generation (RAG)** — *DeepLearning.AI* (Document processing, chunking, embeddings, semantic search, vector databases)
-- 📊 **Python e Machine Learning** — *ItConsulting* (Python OOP, Pandas, NumPy, Matplotlib, fondamenti di ML e Deep Learning)
-- 🎓 **Developer** — *ITS Academy Brindisi* (Sviluppo software con Java, PHP, SQL, Spring e JavaScript)
-- 💻 **Corso Full Stack Developer** — *DIGITAZONE TECH SCHOOL* (Sviluppo Full Stack con Java e React, focus OOP)
-- 🏫 **Diploma Tecnico** — *Istituto Leonardo Da Vinci, Martina Franca*
+* **Junior Developer** @ *THCS srl* *(Febbraio 2025 - Luglio 2025)*
+  - **Sviluppo CRM:** Manutenzione ed evoluzione di piattaforme CRM in PHP per la Pubblica Amministrazione, agenzie del lavoro e strutture sanitarie private.
+  - **Integrazioni Backend:** Sviluppo e consumo di API REST terze per lo scambio di dati gestionali e supporto alle architetture sviluppate in Java Spring.
 
----
+&nbsp;
 
-### 📬 Connettiti con me
+## 🎓 &nbsp;Istruzione & Formazione
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-brescia)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniobrescia1997@gmail.com)
+* ☁️ **Microsoft Azure Fundamentals (AZ-900)** — Studio dei concetti fondamentali del cloud, servizi Azure, sicurezza, privacy e conformità *(In corso)*.
+* 🧠 **Retrieval Augmented Generation (RAG)** — *DeepLearning.AI*: Corso pratico su embeddings, vector databases, strategie di chunking e ricerca semantica per architetture LLM.
+* 📊 **Python & Machine Learning** — *ItConsulting*: Programmazione OOP avanzata in Python, analisi dati con Pandas e NumPy, basi di Machine Learning e Data Visualization con Matplotlib.
+* 🎓 **Sviluppatore Software (ITS Academy)** — *ITS Brindisi*: Percorso biennale pratico incentrato sullo sviluppo orientato agli oggetti (Java, Spring), sviluppo web (PHP, JavaScript) e gestione di database relazionali (SQL).
+* 💻 **Full Stack Developer Course** — *DIGITAZONE TECH SCHOOL*: Corso pratico incentrato sulla programmazione Java, concetti di OOP, sviluppo web e basi di React.
+* 🏫 **Diploma Tecnico** — *Istituto Leonardo Da Vinci, Martina Franca*.
 
-📍 **Location:** Cisternino (BR), Italia  
-🌐 **Lingue:** Italiano (Madrelingua), Inglese (B2)
+&nbsp;
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d680-a470-11eb-9a22-73d482221560.gif" width="100%" alt="Wave Divider" />
-</p>
+## 📬 &nbsp;Connettiti con me
+
+* 📧 **Email:** [antoniobrescia1997@gmail.com](mailto:antoniobrescia1997@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/antonio-brescia](https://www.linkedin.com/in/antonio-brescia)
+* 📍 **Location:** Cisternino (BR), Italia
+* 🌐 **Lingue:** Italiano (Madrelingua), Inglese (B2)
