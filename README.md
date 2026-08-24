@@ -32,8 +32,7 @@ Sviluppatore Full Stack specializzato nell'**integrazione di sistemi di Intellig
 ### 📊 Statistiche GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/AntonioBrescia?label=Followers&style=for-the-badge&color=007acc" />
-  <img src="https://img.shields.io/github/stars/AntonioBrescia?label=Stars&style=for-the-badge&color=007acc" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonioBrescia&theme=radial" alt="GitHub Streak" />
 </p>
 
 ---
