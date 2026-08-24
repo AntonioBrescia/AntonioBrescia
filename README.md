@@ -1,3 +1,9 @@
+<p align="right">
+  <b>Lingua:</b> 
+  <a href="./README.md">🇮🇹 Italiano</a> | 
+  <a href="./README-en.md">🇬🇧 English</a>
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-brescia) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniobrescia1997@gmail.com)
 
 # 👋 &nbsp;Ciao, sono Antonio Brescia
@@ -6,6 +12,7 @@ Sono un **Full Stack & AI Automation Developer** attualmente residente a Lecce (
 
 Il mio obiettivo principale è analizzare i processi e le criticità aziendali per tradurli in architetture software efficienti, riducendo le attività manuali ripetitive e ottimizzando i costi computazionali.
 
+ Attualmente ricopro il ruolo di **IT Specialist & AI Automation Developer** presso *GeNSS Coop.Sociale*.
 
 &nbsp;
 
@@ -76,5 +83,5 @@ Il mio obiettivo principale è analizzare i processi e le criticità aziendali p
 
 * 📧 **Email:** [antoniobrescia1997@gmail.com](mailto:antoniobrescia1997@gmail.com)
 * 💼 **LinkedIn:** [linkedin.com/in/antonio-brescia](https://www.linkedin.com/in/antonio-brescia)
-* 📍 **Location:** Cisternino (BR), Italia
+* 📍 **Location:** Lecce (LE), Italia
 * 🌐 **Lingue:** Italiano (Madrelingua), Inglese (B2)
