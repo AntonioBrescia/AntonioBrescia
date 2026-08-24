@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-brescia) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniobrescia1997@gmail.com)
 
 # 👋 &nbsp;Hi, I'm Antonio Brescia
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B5&width=435&lines=Full+Stack+Developer;AI+Automation+Specialist;LLM+%26+RAG+Engineer)](https://git.io/typing-svg)
 I'm a **Full Stack & AI Automation Developer** based in Lecce (LE), Italy. My expertise focuses on designing scalable backend architectures, developing business management systems (CRM/ERP), and integrating **Generative AI** technologies (LLMs, RAG, AI Agents) to optimize and automate business workflows.
 
 My main goal is analyzing business processes and technical bottlenecks to translate them into efficient software architectures, minimizing repetitive manual tasks and optimizing API/compute costs.
