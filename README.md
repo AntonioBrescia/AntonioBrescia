@@ -6,7 +6,6 @@ Sono un **Full Stack & AI Automation Developer** con sede a Cisternino (BR), Ita
 
 Il mio obiettivo principale è analizzare i processi e le criticità aziendali per tradurli in architetture software efficienti, riducendo le attività manuali ripetitive e ottimizzando i costi computazionali.
 
- Attualmente ricopro il ruolo di **IT Specialist & AI Automation Developer** presso *GeNSS Coop.Sociale*.
 
 &nbsp;
 
