@@ -2,7 +2,7 @@
 
 # 👋 &nbsp;Ciao, sono Antonio Brescia
 
-Sono un **Full Stack & AI Automation Developer** con sede a Cisternino (BR), Italia. La mia attività è incentrata sulla progettazione di architetture backend scalabili, nello sviluppo di sistemi gestionali aziendali (CRM/ERP) e nell'integrazione di tecnologie di **Intelligenza Artificiale Generativa** (LLM, RAG, AI Agents) per l'ottimizzazione e l'automazione dei flussi operativi.
+Sono un **Full Stack & AI Automation Developer** attualmente residente a Lecce (LE), Italia. La mia attività è incentrata sulla progettazione di architetture backend scalabili, nello sviluppo di sistemi gestionali aziendali (CRM/ERP) e nell'integrazione di tecnologie di **Intelligenza Artificiale Generativa** (LLM, RAG, AI Agents) per l'ottimizzazione e l'automazione dei flussi operativi.
 
 Il mio obiettivo principale è analizzare i processi e le criticità aziendali per tradurli in architetture software efficienti, riducendo le attività manuali ripetitive e ottimizzando i costi computazionali.
 
