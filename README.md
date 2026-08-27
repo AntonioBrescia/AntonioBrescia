@@ -61,7 +61,7 @@ Il mio obiettivo principale è analizzare i processi e le criticità aziendali p
   - **Soluzioni AI:** Sviluppo di un agente AI personalizzato con Claude API per la consultazione rapida del patrimonio informativo dell'organizzazione.
   - **Automazione Processi:** Creazione di script/app Python per l'interrogazione automatica dei server NAS e sviluppo di plugin custom WordPress finalizzati alla gestione automatica di ordini, prenotazioni ecc.
 
-* **Freelance Web Developer** *(Agosto 2025 - Gennaio 2026)*
+* **Freelance Web Developer** *(Agosto 2025 - Presente)*
   - Gestione end-to-end del ciclo di vita di progetti web per piccole e medie imprese: analisi dei requisiti, sviluppo del codice, configurazione dell'ambiente di hosting, ottimizzazione SEO base e deploy in produzione.
 
 * **Junior Developer** @ *THCS srl* *(Febbraio 2025 - Luglio 2025)*
