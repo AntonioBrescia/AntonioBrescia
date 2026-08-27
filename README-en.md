@@ -61,7 +61,7 @@ Currently working as **IT Specialist & AI Automation Developer** at *GeNSS Coop.
   - **AI Solutions:** Development of a custom AI Agent using Claude API for fast internal company knowledge retrieval.
   - **Process Automation:** Python desktop apps for automated NAS querying and custom WordPress plugin development for supplier order workflows.
 
-* **Freelance Web Developer** *(August 2025 - January 2026)*
+* **Freelance Web Developer** *(August 2025 - Present)*
   - End-to-end web project management for SMBs: requirements analysis, custom code development, hosting environment setup, basic SEO, and production deployment.
 
 * **Junior Developer** @ *THCS srl* *(February 2025 - July 2025)*
