@@ -81,6 +81,16 @@ Il mio obiettivo principale è analizzare i processi e le criticità aziendali p
 
 &nbsp;
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AntonioBrescia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8be9fd&icon_color=bd93f9&text_color=f8f8f2" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioBrescia&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8be9fd&text_color=f8f8f2" height="180" />
+</div>
+
+
+
+&nbsp;
+
 ## 📬 &nbsp;Connettiti con me
 
 * 📧 **Email:** [antoniobrescia1997@gmail.com](mailto:antoniobrescia1997@gmail.com)
